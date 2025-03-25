@@ -36,4 +36,5 @@ async function getWeather() {
 getWeather();
     } catch (Exception) {
         document
+
         
